@@ -1,5 +1,5 @@
 # laser_merge
-ROS node to merge LaserScan data from lidar and kinect sensors. 
+ROS node to merge LaserScan data from lidar and kinect sensors in Kinetic
 
 Written by two UNC Asheville Mechatronics students. None of the current available nodes work in kinetic so we wrote one that would.
 
